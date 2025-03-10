@@ -1,4 +1,4 @@
-# **iARP - Identity Agnostic Reviewer Profiling 📊📝**
+# **iARP - Identity Agnostic Reviewer Profiling  🕵️ 📊📝**
 
 ## Overview  
 
